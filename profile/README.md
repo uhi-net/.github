@@ -1,4 +1,4 @@
-<p align="center"><img src="uhi-logo.png" alt="UHI · uhi.net" width="320"></p>
+<p align="center"><img src="uhi-logo.png" alt="UHI · uhi.network" width="320"></p>
 
 <h3 align="center">Every device is a worker. Every job is a wage.</h3>
 
@@ -17,6 +17,6 @@ Phones, laptops, gaming rigs, consoles, watches and glasses run small, efficient
 
 **The people who do the work govern the price of the work.** Three on-chain tracks: protocol, market, treasury.
 
-- Site: [uhi.net](https://uhi.net) · Deck: [deck.uhi.net](https://deck.uhi.net)
+- Site: [uhi.network](https://uhi.network) · Deck: [deck.uhi.network](https://deck.uhi.network)
 - Brand: [`uhi-assets`](https://github.com/uhi-net/uhi-assets) · Site: [`uhi-website`](https://github.com/uhi-net/uhi-website) · Deck: [`uhi-deck`](https://github.com/uhi-net/uhi-deck)
 - Siblings: [QuickDial AI](https://quickdial.ai) (USA voice AI, our first workload) · [Vartalaap](https://github.com/vartalaap-si) (India)
